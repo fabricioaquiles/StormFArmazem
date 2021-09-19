@@ -1,0 +1,41 @@
+Menus:
+  principal:
+    armazem:
+      name: "&aBlocos de proteção"
+      lore:
+        - '&7Clique para acessar a categoria'
+        - '&7de blocos de proteção.'
+    permissoes:
+      name: "&aGerenciar permissões"
+      lore:
+        - '&7Clique para gerenciar as permissões'
+        - '&7de quais cargos podem retirar os blocos.'
+  armazem:
+    bedrock:
+      name: "&aBedrock"
+      lore:
+        - '&fEstoque: &7%estoque%'
+        - ''
+        - '&eClique com direito para retirar um inventário.'
+        - '&eClique com esquerdo para tirar 64 blocos.'
+    endstone:
+      name: "&aEndstone"
+      lore:
+        - '&fEstoque: &7%estoque%'
+        - ''
+        - '&eClique com direito para retirar um inventário.'
+        - '&eClique com esquerdo para tirar 64 blocos.'
+    obsidian:
+      name: "&aObsidian"
+      lore:
+        - '&fEstoque: &7%estoque%'
+        - ''
+        - '&eClique com direito para retirar um inventário.'
+        - '&eClique com esquerdo para tirar 64 blocos.'
+    depositar:
+      name: "&eArmazenar tudo"
+      lore:
+        - '&7Armazena todos os itens compativeis de'
+        - '&7seu inventário dentro do armazem.'
+        - ''
+        - '&eClique para armazenar tudo'

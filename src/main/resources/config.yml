@@ -1,0 +1,12 @@
+MySQL:
+  host: "localhost"
+  user: "root"
+  password: "1234"
+  database: "db"
+
+SQLite:
+  file: "database.db"
+
+Geral:
+  sql-type: SQLITE # SQLITE OU MYSQL
+  faction-type: MASSIVEFACTIONS # MASSIVEFACTIONS OU ATLASFACTIONS
